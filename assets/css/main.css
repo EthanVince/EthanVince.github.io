@@ -299,6 +299,10 @@ border: 0px solid transparent;
     font-size: 2em;
 }
 
+#content img { 
+    border:transparent;
+}
+
 
 /* Global Values */
 
@@ -328,8 +332,4 @@ border: 0px solid transparent;
 
 sm {
 	font-size: 12px;
-}
-
-content img { 
-    border:0;
 }
