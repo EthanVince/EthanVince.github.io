@@ -301,6 +301,7 @@ border: 0px solid transparent;
 
 #content img { 
     border:transparent;
+    position: relative;
 }
 
 
