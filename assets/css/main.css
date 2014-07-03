@@ -329,3 +329,7 @@ border: 0px solid transparent;
 sm {
 	font-size: 12px;
 }
+
+content img { 
+    border:0;
+}
